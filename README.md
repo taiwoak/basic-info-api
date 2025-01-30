@@ -41,9 +41,9 @@ The API is deployed and publicly accessible at: [basic-info-api](https://basic-i
 
 ## Backend Developers for Hire
 
-[Hire Python Developers](https://hng.tech/hire/python-developers)
-[Hire C# Developers](https://hng.tech/hire/csharp-developers)
-[Hire Golang Developers](https://hng.tech/hire/golang-developers)
-[Hire PHP Developers](https://hng.tech/hire/php-developers)
-[Hire Java Developers](https://hng.tech/hire/java-developers)
-[Hire NodeJS Developers](https://hng.tech/hire/nodejs-developers)
+- [Hire Python Developers](https://hng.tech/hire/python-developers)
+- [Hire C# Developers](https://hng.tech/hire/csharp-developers)
+- [Hire Golang Developers](https://hng.tech/hire/golang-developers)
+- [Hire PHP Developers](https://hng.tech/hire/php-developers)
+- [Hire Java Developers](https://hng.tech/hire/java-developers)
+- [Hire NodeJS Developers](https://hng.tech/hire/nodejs-developers)
