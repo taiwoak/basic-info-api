@@ -18,22 +18,23 @@ This is a public API developed as part of the HNG12 Stage 0 Backend Task. It pro
     "current_datetime": "2025-01-30T11:27:06.540Z",
     "github_url": "https://github.com/taiwoak/basic-info-api"
 }
+```
 
 ## Setup Instructions
 
-```bash
+
 ### Clone the repository
-
+```bash
 git clone https://github.com/taiwoak/basic-info-api.git
-
+```
 ### Install dependencies
-
+```bash
 npm install
-
+```
 ### Run the server
-
+```bash
 node index.js
-
+```
 ## Deployment
 
 The API is deployed and publicly accessible at: [basic-info-api](https://basic-info-api.onrender.com)
@@ -46,4 +47,3 @@ The API is deployed and publicly accessible at: [basic-info-api](https://basic-i
 [Hire PHP Developers](https://hng.tech/hire/php-developers)
 [Hire Java Developers](https://hng.tech/hire/java-developers)
 [Hire NodeJS Developers](https://hng.tech/hire/nodejs-developers)
-
