@@ -16,6 +16,13 @@ app.get('/', (req, res) => {
     res.status(200).json(response);
 });
 
+app.use((req, res) => {
+    res.status(404).json({
+        error: 'Not Found',
+        message: 'The requested resource does not exist on our server',
+    });
+})
+
 app.listen(port, () => {
     console.log(`Server running on http://localhost:${port}`);
 });
